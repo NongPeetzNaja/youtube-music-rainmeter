@@ -1,9 +1,11 @@
 # Rainmeter YouTube Music App Overlay
 
-## Requirements
+## System Requirements
 
 > YouTube Music Download Link: https://github.com/pear-devs/pear-desktop/releases/download/v3.11.0/YouTube-Music-Web-Setup-3.11.0.exe
+>
 > Rainmeter: https://www.rainmeter.net/
+>
 > WebNowPlaying: https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/download/2.0.7/WebNowPlayingRedux_2.0.7.rmskin
 
 ## Installation Guide
